@@ -6,8 +6,8 @@ import TodoList from './components/TodoList';
 
 function App() {
   const [user, setUser] = useState({
-    name: 'John Doe',
-    email: 'john@example.com',
+    name: 'Brian Seif Karume',
+    email: 'brianseif01@gmail.com',
     // Intentional bug: age is undefined
   });
 
